@@ -2,8 +2,8 @@ Django-Nginx-Dotmap 流量展示
 ====
 
 [![versions](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org/)
-[![versions](https://img.shields.io/badge/Django1.10-stable-green.svg)](https://www.djangoproject.com/)
-[![versions](https://img.shields.io/badge/Echarts%20v3.0-stable-brightgreen.svg)](http://echarts.baidu.com/)
+[![versions](https://img.shields.io/badge/Django-v1.10-green.svg)](https://www.djangoproject.com/)
+[![versions](https://img.shields.io/badge/Echarts%20-v3.0-brightgreen.svg)](http://echarts.baidu.com/)
 
 
 - 通过collection.py采集分析Nginx的日志文件，转换为JSON接口....
